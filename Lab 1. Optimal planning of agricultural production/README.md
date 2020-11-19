@@ -1,2 +1,2 @@
-# Optimization course: Lab 0
-Topic: Hands on Matlab and graphical optimization
+# Optimization course: Lab 1
+Topic: Optimal planning of agricultural production
