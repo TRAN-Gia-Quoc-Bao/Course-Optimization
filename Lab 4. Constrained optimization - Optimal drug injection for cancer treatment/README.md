@@ -1,2 +1,2 @@
-# Optimization course: Lab 0
-Topic: Hands on Matlab and graphical optimization
+# Optimization course: Lab 4
+Topic: Constrained optimization - Optimal drug injection for cancer treatment
