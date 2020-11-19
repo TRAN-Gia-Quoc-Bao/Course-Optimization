@@ -1,2 +1,2 @@
-# Optimization-Course
-My exercises for my Optimization course.
+# Optimization course: Lab 0
+Topic: Hands on Matlab and graphical optimization
