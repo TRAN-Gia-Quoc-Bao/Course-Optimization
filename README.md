@@ -15,4 +15,6 @@ Lab 3: Least squares problems - Identification of an ecological system
 
 Lab 4: Constrained optimization - Optimal drug injection for cancer treatment
 
+By: Gia Quoc Bao TRAN 
+
 ![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Optimization/blob/main/logoUGA.jpg)
